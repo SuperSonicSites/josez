@@ -1,55 +1,58 @@
 baseURL: "/"
-DefaultContentLanguage: en
-title: Custom SoftwarePLUS
-description: By Netcomp Technologies
+DefaultContentLanguage: fr
+title: Jose Zaragoza - Consultant REEE avec CST
+description: Jose Zaragoza, Consultant CST aide les familles à maximiser sans risques le Régime Enregistré D'Épargne Étude de leur enfant(s).
 
 menu:
       main:
         - name: Home
           url: '/'
           weight: 1
-        - name: About
-          url: 'about/'
+        - name: À Propos
+          url: 'a-propos/'
           weight: 2
-        - name: Services
-          url: 'services/'
+        - name: REEE
+          url: 'reee/'
           weight: 3
+        - name: Rendez-Vous
+          url: #
+          weight: 4
         - name: Contact
           url: 'contact/'
-          weight: 4
+          weight: 5
 
 params:
-    name: 'Custom SoftwarePLUS'
+    name: 'Jose Zaragoza'
     showLanguageSelector: false #true if bilingual site - false if unilingua
-    usebasin: '' #endpoint for forms
-    googlemap: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.9633148368903!2d-73.82560598421715!3d45.43024084372952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc93fafae393647%3A0x23aec3743ffadd38!2sNetComp%20Technologies%20Inc!5e0!3m2!1sen!2sca!4v1609950957548!5m2!1sen!2sca' # Map code of Google
-    gtm: 'GTM-T7ZN93Z'
+    usebasin: 'https://usebasin.com/f/a7fdfed3cab9' #endpoint for forms
+    googlemap: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2733.101170134813!2d-71.3219266843272!3d46.76290225386887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb890daddb639f9%3A0xc1d85c1807642275!2s3470%20Rue%20de%20la%20P%C3%A9rade%2C%20Qu%C3%A9bec%2C%20QC%20G1X%204G7!5e0!3m2!1sen!2sca!4v1612277576226!5m2!1sen!2sca' # Map code of Google
+    gtm: 'GTM-N92VKM2'
     hours:
-        hour1en: 'Mon to Fri - 9:00-17:00' #Footer Hours Line #1
-        hour2en: 'Sat - On Demand' #Footer Hours Line #2
-        hour3en: 'Sun - On Demand' #Footer Hours Line #3
+        hour1fr: 'Lun to Jeu - 9:00-21:00' #Footer Hours Line #1
+        hour2fr: 'Ven - 9:00-17:00' #Footer Hours Line #2
+        hour3fr: 'Sam - Dim - Fermé' #Footer Hours Line #3
     social:
-        facebook: 'https://www.facebook.com/NetCompTechnologies'
+        facebook: ''
         twitter: ''
         pinterest: ''
         instagram: ''
-        linkedin: 'https://www.linkedin.com/company/netcomptechnologies'
+        linkedin: ''
     schema:
         type: ProfessionalService
-        priceRange: $$$
+        priceRange: $
         reservation: 'false'
-        openinghour: 'Mo-Fr 9:00-17:00'
-        logo: "img/logo.png"
+        openinghour: '"Mo-Th 9:00-21:00", "Fr 9:00-17:00"'
+        logo: "img/logo.jpg"
         logofooter: "img/logo.png"
         image: "img/og.jpg"
-        address: 15 Cartier Ave,
-        address2: 'Suite 3B,'
-        city: Pointe-Claire
+        address: 1-3470, rue de la Pérade
+        address2:
+        city: Québec
         region: QC
         country: Canada
-        postalcode: H9S 4R5
-        phone: +1-438-800-7544
-        email: info@netcomp.ca
+        postalcode: G1X 4G7
+        phone: +1-418-271-0171
+        email: info@josez.ca
 
 enableRobotsTXT: true
 disableAliases: true
