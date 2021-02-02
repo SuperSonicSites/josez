@@ -1,7 +1,7 @@
 ---
-title: Contact Page
-description: this is the contact page
+title: Page Contact
+description: Commencez une conversation avec Jose Zaragoza
 layout: contact
 
-bannerh1: Contact Us
+bannerh1: Contactez-nous
 ---
