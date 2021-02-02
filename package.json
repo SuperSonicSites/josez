@@ -1,5 +1,5 @@
 {
-    "name": "CustomSoftwarePlus",
+    "name": "Josez",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuperSonicSites/CustomSoftwarePlus.git"
+      "url": "git+https://github.com/SuperSonicSites/josez.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/SuperSonicSites/CustomSoftwarePlus/issues"
+      "url": "https://github.com/SuperSonicSites/josez/issues"
     },
-    "homepage": "https://github.com/SuperSonicSites/CustomSoftwarePlus#readme",
+    "homepage": "https://github.com/SuperSonicSites/josez.git#readme",
     "dependencies": {
       "bulma": "^0.9.1"
     }
