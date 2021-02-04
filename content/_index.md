@@ -3,10 +3,10 @@ title: Homepage
 description: Homepage description
 
 hero1: PRÉPAREZ VOUS À
-hero2: Avec Jose Zaragoza Consultante C.S.T
+hero2: Avec Jose Zaragoza Consultant C.S.T
 
 heading1: ÉPARGNEZ SANS JAMAIS RISQUER VOTRE CAPITAL
-subheading1: En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Jose Zaragoza aide les familles à naviguer leurs options, maximiser les subventions gouvernementales et protéger leur capital grâce à la Fondation fiduciaire canadienne de bourses d’études.
+subheading1: En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Jose Zaragoza aide les familles à naviguer leurs options, maximiser les subventions gouvernementales et protéger leur capital grâce à la Fondation Fiduciaire Canadienne de Bourses d’Études.
 
 benefit1: SERVICE PERSONNALISÉ
 benefit1_desc: À partir du premier jour, jusqu’à celui où votre enfant obtient son diplôme d’études postsecondaires, Jose et son équipe sont là pour vous. 
